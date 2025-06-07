@@ -36,7 +36,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'abdulmajid-yunusov',
-    instagram: 'yaproqbozor',
+    instagram: 'yunusovabdulmajid',
     reddit: '',
     youtube: '', // example: 'pewdiepie'
     udemy: '',
