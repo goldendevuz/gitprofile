@@ -51,7 +51,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://goldendev.mohir.cloud/Profile.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://goldendev.mohir.cloud/Yunusov_Abdulmajid.docx', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
